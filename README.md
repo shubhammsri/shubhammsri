@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Shubham Srivastava
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shubham Srivastava.
+- 👀 I’m interested in Full Stack Development.
+- 📫 My email id: shubhammsri@gmail.com
 
  My few projects based on Web Development are
  1. Blog Web App --> https://safe-eyrie-33448.herokuapp.com/
