@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @shubhammsri
-- 👀 I’m interested in ...
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-shubhammsri/shubhammsri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ My few projects based on backend development are
+ 1. Blog Web App --> https://safe-eyrie-33448.herokuapp.com/
+ 2. ToDo List  --> https://whispering-beach-16648.herokuapp.com/
+
